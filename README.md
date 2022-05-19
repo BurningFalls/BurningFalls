@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![BurningFalls's GitHub stats](https://github-readme-stats.vercel.app/api?username=burningfalls&show_icons=true&theme=buefy)](https://github.com/burningfalls/github-readme-stats)
+[![BurningFalls's GitHub stats](https://github-readme-stats.vercel.app/api?username=burningfalls&show_icons=true&theme=buefy)](https://github.com/burningfalls/burningfalls)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=burningfalls&layout=compact)](https://github.com/burningfalls/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=burningfalls&layout=compact)](https://github.com/burningfalls/burningfalls)
 
-[![BurningFalls's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=burningfalls)](https://github.com/burningfalls/github-readme-stats)
+[![BurningFalls's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=burningfalls)](https://github.com/burningfalls/burningfalls)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hithere314)](https://solved.ac/hithere314)
 

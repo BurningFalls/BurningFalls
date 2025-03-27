@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/hithere314" width="600" height="300"/></a>
+
+
 [![BurningFalls's GitHub stats](https://github-readme-stats.vercel.app/api?username=burningfalls&show_icons=true&theme=buefy)](https://github.com/burningfalls/burningfalls)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=burningfalls&layout=compact)](https://github.com/burningfalls/burningfalls)
